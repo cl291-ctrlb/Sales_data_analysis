@@ -1,2 +1,11 @@
 # Sales_data_analysis
-This is the sales data analysis project
+Product Sales and Customer Rating Analysis
+Analyze product discount patterns, ratings, user savings, and revenue to identify top-performing products, underperformers, and potential revenue drivers.
+
+
+
+
+
+
+
+
