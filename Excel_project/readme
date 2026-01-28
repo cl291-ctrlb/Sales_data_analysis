@@ -1,1 +1,33 @@
-This is folder containing excel project.
+🚀 Sales Data Analysis: Insights
+
+I recently completed an in-depth analysis of our sales dataset, and here’s what I discovered while working with thousands of rows of data:
+
+Key Steps I Took:
+
+Used Find & Replace to clean data efficiently, removing commas from numbers (e.g., 13,999 → 13999) and differentiating True/False values to filter rows.
+
+Checked for null or blank values and expanded collapsed data with the plus icon for easy review.
+
+Converted text-based numbers to numeric format for accurate calculations.
+
+Deleted unnecessary columns like Username and Review ID to focus on relevant metrics.
+
+Filtered and validated images and links to identify genuine data.
+
+Applied formulas to analyze percentages (e.g., IF(F2>60%, "more than 60", "less than 60")).
+
+Created multiple pivot tables for visual insights and better segmentation.
+
+Category-wise Observations:
+
+Capc USB Cables dominated the dataset with 231 rows, followed by Ew Smart Watches (76 rows) and Eht Smart Televisions (62 rows).
+
+Smaller categories like Ehac RCACables and Ehat TVWallCeilingMounts had very few entries, indicating niche products.
+
+Analysis Questions I Explored:
+
+Which categories offer the highest discounts?
+
+Which categories have the highest customer satisfaction?
+
+Do higher discounts improve ratings
